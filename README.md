@@ -2,7 +2,7 @@
 
 Este projeto foi inicializado com: [Create React App](https://github.com/facebook/create-react-app).
 
-## ![capa](https://github.com/DavidAlmeidaDesigner/github-api-interface/edit/master/image/capa.jpg)
+## ![capa](./image/capa.jpg)
 
 ### Agradecimento
 
